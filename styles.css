@@ -1,0 +1,302 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.masthead {
+  height: 950px;
+  margin-bottom: 100px;
+}
+
+.logo {
+  margin-top: 50px;
+  padding: 0px
+}
+
+.iphone {
+  height: auto;
+  position: relative;
+  right: 70px;
+  top: 210px;
+}
+
+.masthead-text {
+  padding-top: 250px;
+  font-size: 13px;
+  color: #ffffff;
+}
+
+.masthead-text p {
+  width: 470px;
+  color: #ffffff;
+}
+
+.right-row {
+  margin-top: 190px;
+}
+
+.columns1 {
+  margin-bottom: 80px;
+}
+
+.columns2 {
+  margin-top: 80px;
+  margin-bottom: 80px;
+}
+
+.fullimage {
+  height: 870px;
+  margin-bottom: 0px;
+}
+
+.fullimage-text {
+  padding-top: 450px;
+  font-size: 13px;
+  color: #ffffff;
+}
+
+.fullimage-text p {
+  width: 470px;
+  color: #ffffff;
+  padding: 20px 0px;
+}
+
+.fullimage-text a {
+  width: 470px;
+  color: #ffffff;
+  font-weight: bold;
+}
+
+.color {
+  width: 100%;
+  margin-top: 0px;
+  padding-top: 100px;
+  padding-bottom: 100px;
+  background-color: #82ca9c;
+}
+.color h2,
+.color h4,
+.color p {
+    color: #ffffff;
+}
+
+.buy {
+  background-color: #f6f7fa;
+  padding: 100px 0px;
+}
+
+.buy-right,
+.buy-left {
+  height: 380px;
+  padding: 50px;
+}
+
+.buy-right {
+  background-color: #ffffff;
+  -moz-box-shadow: 0 0 15px #eaebee;
+  -webkit-box-shadow: 0 0 15px #eaebee;
+  box-shadow: 0 0 15px #eaebee;}
+}
+
+h1 {
+  font-size: 60px;
+  color: #ffffff;
+  margin-bottom: 20px;
+  font-weight: 300;
+}
+
+h2 {
+  font-size: 35px;
+  color: #222626;
+  margin-bottom: 30px;
+  font-weight: 300;
+}
+
+h3 {
+  font-size: 30px;
+  color: #ffffff;
+  margin-bottom: 30px;
+  margin top: 0px;
+  font-weight: 300;
+}
+
+h4 {
+  font-size: 13px;
+  color: #67676d;
+  margin-bottom: 30px;
+  margin top: 0px;
+  font-weight: bold;
+}
+
+p {
+  font-size: 14px;
+  color: #959595;
+  line-height: 24px;
+  font-weight: 400;
+}
+
+.buy-right h3,
+.buy-left h3 {
+  color: #2e3b4e;
+  margin-top: 28px;
+  margin-bottom: 18px;
+}
+
+.buy-right p,
+.buy-left p {
+  color: #8297a7;
+  margin-bottom: 40px;
+}
+
+.grid {
+  font-size: 13px;
+  line-height: 24px;
+  font-weight: 400;
+  padding: 20px 40px 20px 40px;
+  margin: 0px;
+}
+
+.grid p {
+  color: #ffffff;
+}
+
+.grid a {
+  color: #ffffff;
+  font-weight: bold;
+}
+
+.boxes {
+  margin: 0px;
+}
+
+.boxes .grid {
+  min-height: 270px;
+}
+
+.box-pink {
+  background-color: #f5989d
+}
+
+.box-purple {
+  background-color: #615f7d
+}
+
+.box-green {
+  background-color: #82ca9c
+}
+
+.box-image1 {
+  background-image: url(images/boxsmall.jpg);
+}
+
+.box-image2 {
+  background-image: url(images/boxlarge.jpg);
+}
+
+.grey-rectang {
+  background-color: #e1e1e1;
+}
+
+.violet-rectang {
+  background-color: #bd8cbf;
+}
+
+.grey-rectang,
+.violet-rectang {
+  border-radius: 5px;
+  padding: 7px 20px;
+  font-size: 11px;
+  font-weight: bold;
+  color: #ffffff;
+}
+
+.btn-green {
+  background-color: #82ca9c;
+  border-radius: 5px;
+  padding: 12px 40px;
+  font-size: 13px;
+  font-weight: bold;
+  color: #ffffff;
+  }
+
+.btn-green:hover {
+  background-color: #3ba862;
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.brand {
+  margin: 30px 15px 20px 0px;
+}
+
+footer {
+  background-color: #192431;
+  padding: 80px;
+}
+
+footer p {
+  font-size: 13px;
+  color: #ffffff;
+}
+
+footer h4 {
+  color: #ffffff;
+  margin-bottom: 20px;
+}
+
+.end {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.email {
+  font-size: 13px;
+  background-color: #ffffff;
+  border-radius: 5px 0px 0px 5px;
+  padding: 15px 10px;
+  border: none;
+  width: 85%;
+  float: left;
+}
+
+.submit {
+  font-size: 20px;
+  color: #ffffff;
+  background-color: #82ca9c;
+  border-radius: 0px 5px 5px 0px;
+  padding: 10px 10px;
+  border: none;
+  width: 15%;
+  float: right;
+}
+
+.submit:hover {
+  background-color: #3ba862;
+}
+
+.postscript  {
+  color: #57697f;
+  font-size: 12px;
+  line-height: 14px;
+  margin-top: 40px;
+}
+
+.list {
+  list-style-type: none;
+}
+
+ul.list {
+  margin: 0px;
+  padding: 0px;
+}
+
+.list a {
+  color: #ffffff;
+  font-size: 13px;
+}
+
+.list a:hover{
+  color: #ffffff;
+  text-decoration: none;
+}
